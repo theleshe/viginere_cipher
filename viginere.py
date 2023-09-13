@@ -85,5 +85,3 @@ else:
 
 with open("output.txt", "w") as file:
     file.write(output_text)
-
-#end of first project on java
